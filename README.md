@@ -9,6 +9,8 @@ Demo
 - 📫 How to reach me DM me on Discord at sub2pewds12
 - 😄 Pronouns: he/him
 
+leanhkhoi
+
 ## Languages and Tools
 
 <p align="center">
