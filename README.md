@@ -2,6 +2,7 @@
 ## Demo line 2 H2
 
 Demo
+
 - 👋 Hi, I’m @sub2pewds12
 - 👀 I’m interested in playing football and badminton
 - 🌱 I’m currently learning DevOps
@@ -19,7 +20,6 @@ leanhkhoi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-
 
 
 
